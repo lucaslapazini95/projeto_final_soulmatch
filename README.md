@@ -1,8 +1,8 @@
 # Projeto Final SoulCode - SoulMatch
 O projeto final requeria apresentar uma solução para um problema real. Minha equipe e eu recebemos a base de dados da empresa Soulcode, base essa que estava na plataforma Firebase. Do Firebase, integramos a plataforma com a BigQuery. Da BigQuery, geramos consultas automatizadas. Essas consultas eram pegas pelo Looker Studio através da integração direta entre as ferramentas e dentro do Looker foram gerados dashboards com os dados já processados. Todo o procedimento ficou automatizado e posteriormente, o dashboard poderia ser atualizado para consultas com dados atuais. Para demonstrar proficiência com outras ferramentas, realizamos ETL no Colab, integração da base no BigQuery e posterior dashboard no Power BI.
 
-Abaixo é possível ter uma ideia de como ficou o procedimento inteiro.
-![Visao_projeto](https://github.com/lucaslapazini95/projeto_final_soulmatch/assets/114882852/42d49a09-6240-4481-a540-67618786ee88)
+Abaixo é possível ter uma ideia de como ficou o procedimento inteiro:
+![Visao_projeto](https://github.com/lucaslapazini95/projeto_final_soulmatch/assets/114882852/ad7e573e-eb49-410f-8574-1f537863fd13)
 
 ### O desafio:
 - Automatização do processo de exportação de dados do Firebase para o BigQuery e criação das tabelas para visualizações específicas, integra-las com o Looker;
